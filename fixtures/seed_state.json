@@ -1,0 +1,12 @@
+{
+  "active_object": {
+    "object_id": "first_honest_build_cut",
+    "object_kind": "BUILD_CUT_BOUNDARY",
+    "smallest_honest_reading": "declared boundary for the smallest deterministic Streamlit move-runner v0"
+  },
+  "history": [],
+  "regime_id": "regime_v0",
+  "state_id": "seed_state_v0",
+  "status": "untyped",
+  "typed_record": null
+}
